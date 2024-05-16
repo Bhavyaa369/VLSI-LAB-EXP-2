@@ -24,31 +24,6 @@ STEP:6 Click the simulation to simulate the program and give the inputs and veri
 
 STEP:7 compare the output with truth table.
 
-**LOGIC DIAGRAM**
-
-# ENCODER
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/3cd1f95e-7531-4cad-9154-fdd397ac439e)
-
-
-# DECODER
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/45a5e6cf-bbe0-4fd5-ac84-e5ad4477483b)
-
-
-# MULTIPLEXER
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/427f75b2-8e67-44b9-ac45-a66651787436)
-
-
-# DEMULTIPLEXER
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/1c45a7fc-08ac-4f76-87f2-c084e7150557)
-
-
-# MAGNITUDE COMPARATOR
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/b2fe7a05-6bf7-4dcb-8f5d-28abbf7ea8c2)
 
 # VERILOG CODE
 
@@ -65,7 +40,11 @@ or (b,d[2],d[3],d[6],d[7]);
 or (c,d[1],d[3],d[5],d[7]);
 
 endmodule
+**LOGIC DIAGRAM**
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/3cd1f95e-7531-4cad-9154-fdd397ac439e)
 
+# OUTPUT WAVEFORM:
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161431563/8929f21f-1c1a-4ba3-9851-67119583ab30)
 # 3-8 DECODER:
 
 module decoder(A,E,Y);
@@ -97,6 +76,11 @@ decoder_2_4 d1(A[1:0],~A[2],Y[3:0]);
 decoder_2_4 d2(A[1:0],~A[2],Y[7:4]);
 
 endmodule
+**LOGIC DIAGRAM**
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/45a5e6cf-bbe0-4fd5-ac84-e5ad4477483b)
+
+# OUTPUT WAVEFORM:
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161431563/c38e614f-32d0-4c20-a6cd-a17031d13bd1)
 
 # 8-1 MULTIPLEXER:
 
@@ -135,6 +119,12 @@ endcase
 end
 
 endmodule
+**LOGIC DIAGRAM**
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/427f75b2-8e67-44b9-ac45-a66651787436)
+
+# OUTPUT WAVEFORM:
+
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161431563/a568e51b-7ff3-45fe-b800-6a7cfa725a4f)
 
 # 1-8 DEMULTIPLEXER:
 
@@ -169,6 +159,11 @@ and g10(d7,s0,s1,w3,i);
 and g11(d8,s0,s1,s2,i);
 
 endmodule
+**LOGIC DIAGRAM**
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/1c45a7fc-08ac-4f76-87f2-c084e7150557)
+
+# OUTPUT WAVEFORM:
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161431563/20cfe07e-038c-4320-b059-44bc4fe2e32e)
 
 # 2 BIT MAGNITUDE COMPARATOR :
 
@@ -221,29 +216,11 @@ end
 end
 
 endmodule
+**LOGIC DIAGRAM**
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/b2fe7a05-6bf7-4dcb-8f5d-28abbf7ea8c2)
 
 # OUTPUT WAVEFORM:
-
-# ENCODER:
-
-![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161431563/8929f21f-1c1a-4ba3-9851-67119583ab30)
-
-# DECODER:
-
-![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161431563/c38e614f-32d0-4c20-a6cd-a17031d13bd1)
-
-# MULTIPLEXER:
-
-![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161431563/a568e51b-7ff3-45fe-b800-6a7cfa725a4f)
-
-# DEMULTIPLEXER:
-
-![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161431563/20cfe07e-038c-4320-b059-44bc4fe2e32e)
-
-# 2 BIT MAGNITUDE COMPARATOR:
-
 ![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161431563/e57c22f0-2b90-44b4-a992-4e0e277c973f)
 
-# RESULT
-
-Thus the simulation and synthesis of ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, 2bit MAGNITUDE COMPARATOR using vivado is successfully completed and executed.
+# RESULT:
+   Thus the simulation and synthesis of ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, 2bit MAGNITUDE COMPARATOR using vivado is successfully completed and executed.
