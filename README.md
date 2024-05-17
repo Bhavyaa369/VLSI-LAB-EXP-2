@@ -31,7 +31,7 @@ LOGIC DIAGRAM
 
 ENCODER
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-2/assets/161432255/efe2b90d-7a2e-48b0-9dea-021660cbb2e0)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161432255/efe2b90d-7a2e-48b0-9dea-021660cbb2e0)
 
 verilog code
 ```
@@ -45,11 +45,11 @@ endmodule
 ```
 output
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-2/assets/161432255/0a7dae4d-195d-4478-ab95-7fa72bff1cb0)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161432255/0a7dae4d-195d-4478-ab95-7fa72bff1cb0)
 
 LOGIC DIAGRAM DECODER
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-2/assets/161432255/379dfab4-6571-4e74-b3f0-7fad4010dcb4)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161432255/379dfab4-6571-4e74-b3f0-7fad4010dcb4)
 
 verilog code
 ```
@@ -68,11 +68,11 @@ endmodule
 ```
 output
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-2/assets/161432255/21cc150c-9fc2-4b5a-b779-b3a6b1e57e98)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161432255/21cc150c-9fc2-4b5a-b779-b3a6b1e57e98)
 
 LOGIC DIAGRAM MULTIPLEXER
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-2/assets/161432255/cd7ef931-2f82-44dc-8110-321214476a4f)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161432255/cd7ef931-2f82-44dc-8110-321214476a4f)
 
 VERILOG CODE
 ```
@@ -94,11 +94,11 @@ endmodule
 ```
 output
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-2/assets/161432255/8dd1c71b-e233-4725-96d7-70477fa1babd)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161432255/8dd1c71b-e233-4725-96d7-70477fa1babd)
 
 VERILOG CODE DEMULTIPLEXER
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-2/assets/161432255/7499dabf-d2bd-48b0-88ec-fd33fc3bf323)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161432255/7499dabf-d2bd-48b0-88ec-fd33fc3bf323)
 
 VERILOG CODE
 ```
@@ -119,11 +119,11 @@ endmodule
 
 output
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-2/assets/161432255/31b3314b-b860-40ff-9334-b0ee03ed5a5f)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161432255/31b3314b-b860-40ff-9334-b0ee03ed5a5f)
 
 MAGNITUDE COMPARATOR
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-2/assets/161432255/438bf227-3184-4629-9e37-92c0ee354a9b)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161432255/438bf227-3184-4629-9e37-92c0ee354a9b)
 
 VERILOG CODE
 ```
@@ -155,7 +155,7 @@ endmodule
 ```
 OUTPUT
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-2/assets/161432255/08d2e7c6-2608-4faf-8d17-a85311763ce5)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-2/assets/161432255/08d2e7c6-2608-4faf-8d17-a85311763ce5)
 
 RESULT
 
